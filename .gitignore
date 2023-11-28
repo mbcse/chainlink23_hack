@@ -128,9 +128,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+# frontend
+.DS_STORE
 
-config/privateKeys.json
-
-artifacts
-cache
-.openzeppelin
+contracts/artifacts
